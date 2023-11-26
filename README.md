@@ -70,7 +70,6 @@ Code :
 Logic diagram and Truthtable :
 ![exp1 truthtable](https://github.com/MANISHA21SS/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474298/caf80015-9245-4ca6-9023-9161e1062e49)
 
-
 RTL diagram :
 ![image](https://github.com/MANISHA21SS/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147474298/7f683154-a04a-44ca-aad9-5065ad47a984)
 
